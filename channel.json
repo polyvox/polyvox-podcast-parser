@@ -48,11 +48,9 @@
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 17 Jun 2015 05:00:00 GMT",
     "enclosure": {
-      "_attr": {
-        "url": "http://podcasts.polyvox.audio/media/01%20Beefsteak%20Handshake.mp3",
-        "length": "78717616",
-        "type": "audio/mpeg"
-      }
+      "url": "http://podcasts.polyvox.audio/media/0001/01%20Beefsteak%20Handshake.mp3",
+      "length": "78733312",
+      "type": "audio/mpeg"
     },
     "custom_elements": [
       { "itunes:subtitle": "Greeting one another and the Internet with an inaugural podcast." },
@@ -61,7 +59,7 @@
       }},
       { "itunes:image": {
         "_attr": {
-          "href": "http://podcasts.polyvox.audio/polyvox.episode1.3000.png"
+          "href": "http://podcasts.polyvox.audio/media/0001/polyvox.episode1.3000.png"
         }
       }},
       { "itunes:duration": "1:49:24" }
