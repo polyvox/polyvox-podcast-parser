@@ -1,0 +1,71 @@
+{
+  "channel": {
+    "title": "polyvox",
+    "description": "An unscripted and irreverent conversation between three or more folks that work in IT but would rather create content for you to enjoy.",
+    "feed_url": "http://podcasts.polyvox.audio/rss.xml",
+    "site_url": "http://polyvox.audio",
+    "image_url": "http://podcasts.polyvox.audio/polyvox.green.3000.png",
+    "managingEditor": "Bryan",
+    "webMaster": "Curtis",
+    "copyright": "2015 by polyvox",
+    "language": "en",
+    "categories": [ "Society and Culture", "Technology" ],
+    "ttl": "1800",
+    "custom_namespaces": {
+      "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "" },
+      { "itunes:summary": "An unscripted and irreverent conversation between three or more folks that work in IT but would rather create content for you to enjoy." },
+      { "itunes:author": "Heather, Bryan, and Curtis" },
+      { "itunes:explicit": "yes" },
+      { "itunes:owner": [
+        { "itunes:name": "polyvox administrator" },
+        { "itunes:email": "admin@polyvox.audio" }
+      ]},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/polyvox.green.3000.png"
+        }
+      }},
+      { "itunes:category": {
+        "_attr": {
+          "text": "Society & Culture"
+        }
+      }},
+      { "itunes:category": {
+        "_attr": {
+          "text": "Technology"
+        }
+      }}
+    ]
+  },
+  "items": [{
+    "title": "Beefsteak Handshake",
+    "description": "What did we talk about?<ul><li>The recent underhandedness of SourceForge.net and how it relates to Pulp Fiction</li><li>Bryan's new Apple Watch</li><li>Starbuck's, banks, Amazon, and all of the other Big Brothers</li><li>Blackpowder, gunpowder and shooting stuff</li><li>Bryan's upcoming birthday</li><li>Keanu Reeves and Shia LeBouf</li><li>Using smartphones for their smart and not their phone</li><li>Long-format writing</li><li>Gonzo journalism</li><li>Our first vinyl records, cassette tapes, and CDs</li><li><a href=\"www.youtube.com/watch?v=2pv4xmZF_EI\">Underdog</a></li><li>The mysteries of mattresses and pillows</li><li>Vending machines in public restrooms</li><li>The <a href=\"https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)\">Ha' penny</a></ul>",
+    "url": "http://polyvox.audio/podcasts/1",
+    "guid": "2CA119D7-1A5D-4CBE-BE5D-06A001B53B52",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 17 Jun 2015 05:00:00 GMT",
+    "enclosure": {
+      "_attr": {
+        "url": "http://podcasts.polyvox.audio/media/01%20Beefsteak%20Handshake.mp3",
+        "length": "78717616",
+        "type": "audio/mpeg"
+      }
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Greeting one another and the Internet with an inaugural podcast." },
+      { "itunes:summary": {
+        "_cdata": "What did we talk about?<ul><li>The recent underhandedness of SourceForge.net and how it relates to Pulp Fiction</li><li>Bryan's new Apple Watch</li><li>Starbuck's, banks, Amazon, and all of the other Big Brothers</li><li>Blackpowder, gunpowder and shooting stuff</li><li>Bryan's upcoming birthday</li><li>Keanu Reeves and Shia LeBouf</li><li>Using smartphones for their smart and not their phone</li><li>Long-format writing</li><li>Gonzo journalism</li><li>Our first vinyl records, cassette tapes, and CDs</li><li><a href=\"www.youtube.com/watch?v=2pv4xmZF_EI\">Underdog</a></li><li>The mysteries of mattresses and pillows</li><li>Vending machines in public restrooms</li><li>The <a href=\"https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)\">Ha' penny</a></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/polyvox.episode1.3000.png"
+        }
+      }},
+      { "pubDate": "Wed, 17 Jun 2015 05:00:00 GMT" },
+      { "itunes:duration": "1:49:24" }
+    ]
+  }]
+}

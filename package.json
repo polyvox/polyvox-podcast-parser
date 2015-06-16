@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/realistschuckle/polyvox-podcast-parser",
   "dependencies": {
+    "id3js": "^1.1.3",
     "musicmetadata": "^1.0.1",
     "node-schedule": "^0.2.9",
     "rss": "^1.1.1"
