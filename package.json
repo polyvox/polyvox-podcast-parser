@@ -1,0 +1,24 @@
+{
+  "name": "polyvox-podcast-parser",
+  "version": "1.0.0",
+  "description": "A daemon to parse podcasts and create an RSS feed from them.",
+  "main": "polyvox-podcast-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realistschuckle/polyvox-podcast-parser.git"
+  },
+  "author": "\"Curtis Schlak\" <realistschuckle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realistschuckle/polyvox-podcast-parser/issues"
+  },
+  "homepage": "https://github.com/realistschuckle/polyvox-podcast-parser",
+  "dependencies": {
+    "musicmetadata": "^1.0.1",
+    "node-schedule": "^0.2.9",
+    "rss": "^1.1.1"
+  }
+}
