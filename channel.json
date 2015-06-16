@@ -5,8 +5,8 @@
     "feed_url": "http://podcasts.polyvox.audio/rss.xml",
     "site_url": "http://polyvox.audio",
     "image_url": "http://podcasts.polyvox.audio/polyvox.green.3000.png",
-    "managingEditor": "Bryan",
-    "webMaster": "Curtis",
+    "managingEditor": "editor@polyvox.audio",
+    "webMaster": "webmaster@polyvox.audio",
     "copyright": "2015 by polyvox",
     "language": "en",
     "categories": [ "Society and Culture", "Technology" ],
@@ -42,7 +42,7 @@
   },
   "items": [{
     "title": "Beefsteak Handshake",
-    "description": "What did we talk about?<ul><li>The recent underhandedness of SourceForge.net and how it relates to Pulp Fiction</li><li>Bryan's new Apple Watch</li><li>Starbuck's, banks, Amazon, and all of the other Big Brothers</li><li>Blackpowder, gunpowder and shooting stuff</li><li>Bryan's upcoming birthday</li><li>Keanu Reeves and Shia LeBouf</li><li>Using smartphones for their smart and not their phone</li><li>Long-format writing</li><li>Gonzo journalism</li><li>Our first vinyl records, cassette tapes, and CDs</li><li><a href=\"http://www.youtube.com/watch?v=2pv4xmZF_EI\">Underdog</a></li><li>The mysteries of mattresses and pillows</li><li>Vending machines in public restrooms</li><li>The <a href=\"https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)\">Ha' penny</a></ul>",
+    "description": "In our inaugural podcast, we start with the underhandedness of SourceForge and conclude with vending machines in public restrooms.",
     "url": "http://polyvox.audio/podcasts/1",
     "guid": "2CA119D7-1A5D-4CBE-BE5D-06A001B53B52",
     "categories": [ "Society and Culture", "Technology" ],
@@ -64,7 +64,6 @@
           "href": "http://podcasts.polyvox.audio/polyvox.episode1.3000.png"
         }
       }},
-      { "pubDate": "Wed, 17 Jun 2015 05:00:00 GMT" },
       { "itunes:duration": "1:49:24" }
     ]
   }]
