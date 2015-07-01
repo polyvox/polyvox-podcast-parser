@@ -73,7 +73,7 @@
     "date": "Wed, 01 Jul 2015 05:00:00 GMT",
     "enclosure": {
       "url": "http://podcasts.polyvox.audio/media/0002/02%20Bryan%20Has%20a%20Birthday.mp3",
-      "length": "83257000",
+      "length": "83304448",
       "type": "audio/mpeg"
     },
     "custom_elements": [
@@ -86,7 +86,7 @@
           "href": "http://podcasts.polyvox.audio/media/0002/polyvox.episode2.3000.png"
         }
       }},
-      { "itunes:duration": "1:55:35" }
+      { "itunes:duration": "1:55:27" }
     ]
   }]
 }
