@@ -43,7 +43,7 @@
   "items": [{
     "title": "Beefsteak Handshake",
     "description": "In our inaugural podcast, we start with the underhandedness of SourceForge and conclude with vending machines in public restrooms.",
-    "url": "http://polyvox.audio/podcasts/1",
+    "url": "http://polyvox.audio/#podcasts",
     "guid": "2CA119D7-1A5D-4CBE-BE5D-06A001B53B52",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 17 Jun 2015 05:00:00 GMT",
@@ -63,6 +63,30 @@
         }
       }},
       { "itunes:duration": "1:49:24" }
+    ]
+  }, {
+    "title": "Bryan Has a Birthday",
+    "description": "The sequel to the first episode!",
+    "url": "http://polyvox.audio/#podcasts",
+    "guid": "97B1E26E-46C2-456B-87D2-EC140EE2DC8A",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 01 Jul 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0002/02%20Bryan%20Has%20a%20Birthday.mp3",
+      "length": "83257000",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Happiness is having a rare steak, a bottle of scotch, and a dog to eat the rare steak." },
+      { "itunes:summary": {
+        "_cdata": "Another couple of hours of pure, ignorant bliss filled by...<ul><li>Heather learns about advanced microphone setup</li><li>Getting used to our voices</li><li>Bryan admires <a href=\"http://shirt.woot.com/offers/nerd-happens\">Curtis' T-shirt</a> (which you can't see!)</li><li>Biomimetics as a science, an art, and a company name</li><li>Let's <a href=\"https://www.youtube.com/watch?v=wFyY2mK8pxk\">pluralize octopus</a>!</li><li><i>COUGH!</i></li><li>Heather presents NOT THE NEWS</li><li>Revisit the meaning of \"NOT THE NEWS\" with the <a href=\"https://en.wikipedia.org/wiki/2015_Texas_pool_party_incident\">2015 Texas pool party incident</a> as the example</li><li>Civil disobedience: structured vs. unstructured</li><li>More sight gags that <a href=\"https://en.wikipedia.org/wiki/Samsung_Galaxy_Tab_3_7.0#Special_editions\">you can't see</a>!</li><li><a href=\"https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_Edge\">Samsung Galaxy Note Edge</a></li><li>Heather's and Curtis' life advice for Bryan on his birthday</li><li>Sleeping gear</li><li>Dave Chappelle making history</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0002/polyvox.episode2.3000.png"
+        }
+      }},
+      { "itunes:duration": "1:55:35" }
     ]
   }]
 }
