@@ -88,5 +88,29 @@
       }},
       { "itunes:duration": "1:55:27" }
     ]
+  }, {
+    "title": "What if We Had a Sponsor?",
+    "description": "Filmed in TECHNICOLOR (TM)",
+    "url": "http://polyvox.audio/#podcasts",
+    "guid": "A532D6A4-C1D5-43AF-811A-83F6F273C3FF",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 15 Jul 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0003/03%20What%20if%20We%20Had%20a%20Sponsor.mp3",
+      "length": "67241367",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "No, wait! We're not corporate sell-outs!" },
+      { "itunes:summary": {
+        "_cdata": "Give me liberty or give me...<ul><li>Who would we want as our sponsor?<ul><li><a href=\"http://www.budlight.com/our-beers/lime-beer.html\">Budlight Lime</a> (probably not)</li><li><a href=\"http://www.iamjohnoliver.com\">John Oliver</a></li><li><a href=\"http://www.hollowdeckpress.com\">Hollowdeck Press</a></li><li><a href=\"http://www.halliburton.com/en-US/default.page\">Halliburton</a></li><li><a href=\"https://www.canada.travel\">formerly the Canadian Tourism Commission</a></li><li>Happy Madison Productions</li><li><a href=\"http://www.trump.com\">Donald Trump</a></li><li><a href=\"http://www.audible.com\">Audible</a></li><li><a href=\"http://www.spanx.com\">SPANX</a></li><li><a href=\"http://www.gatorade.com\">Gatorade</a></li><li><a href=\"http://www.ettore.com\">Ettore</a></li><li><a href=\"http://www.jbropesupply.com\">J. B. Rope Supply</a></li><li><a href=\"http://skylineservicesinc.net\">Skyline High Rise Services</a></li><li>Chris Pratt, PLEASE!</li></ul></li><li>Short pants</li><li><a href=\"http://seaworldparks.com\">SeaWorld</a></li><li>Drew and Adam</li><li>Amazon Prime fails Bryan</li><li>Follow-up on the purity of the Weather Channel's line-up</li><li>The redemption of Brian Williams</li><li>¡Fireworks!</li><li>The Myth of Mythbusters</li><li>Undergarments</li><li>Follow-up on Heather's story-for-a-house</li><li>The Sinking of the RMS Lusitania</li><li>SKINNY JEANS WARNING!</li><li><i>This Is Where I Leave You</i></li><li>Curtis got a haircut</li><li>Little kid English</li><li>Steinbeck</li><li>Sky-scraper window washers</li><li>Sensory deprivation booths</li><li>Mani/pedi salon experiences</li><li>Fireworks</li><li>Jurassic World</li><li><a href=\"https://www.youtube.com/watch?v=hRUy-D0JU2I\">Miguel Rivera playing Beat It</a></li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0003/polyvox.episode3.1000.png"
+        }
+      }},
+      { "itunes:duration": "1:33:11" }
+    ]
   }]
 }
