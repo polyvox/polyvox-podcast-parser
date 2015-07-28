@@ -43,7 +43,7 @@
   "items": [{
     "title": "Beefsteak Handshake",
     "description": "In our inaugural podcast, we start with the underhandedness of SourceForge and conclude with vending machines in public restrooms.",
-    "url": "http://polyvox.audio/#podcasts",
+    "url": "http://polyvox.audio/podcasts/1.html",
     "guid": "2CA119D7-1A5D-4CBE-BE5D-06A001B53B52",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 17 Jun 2015 05:00:00 GMT",
@@ -67,7 +67,7 @@
   }, {
     "title": "Bryan Has a Birthday",
     "description": "The sequel to the first episode!",
-    "url": "http://polyvox.audio/#podcasts",
+    "url": "http://polyvox.audio/podcasts/2.html",
     "guid": "97B1E26E-46C2-456B-87D2-EC140EE2DC8A",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 01 Jul 2015 05:00:00 GMT",
@@ -91,7 +91,7 @@
   }, {
     "title": "What if We Had a Sponsor?",
     "description": "Filmed in TECHNICOLOR (TM)",
-    "url": "http://polyvox.audio/#podcasts",
+    "url": "http://polyvox.audio/podcasts/3.html",
     "guid": "A532D6A4-C1D5-43AF-811A-83F6F273C3FF",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 15 Jul 2015 05:00:00 GMT",
@@ -111,6 +111,30 @@
         }
       }},
       { "itunes:duration": "1:33:11" }
+    ]
+  }, {
+    "title": "Hawai'i, Sorkinville, and Politics! ... oh my",
+    "description": "Welcome back, Bryan!",
+    "url": "http://polyvox.audio/podcasts/4.html",
+    "guid": "AFBD02DB-DB68-4F47-AA9F-8C32C08646C8",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 29 Jul 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0004/hawaii-sorkinville-politics-oh-my.mp3",
+      "length": "79439965",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "We're now selling Roman Catholic prayer candles with Saint Machete on them." },
+      { "itunes:summary": {
+        "_cdata": "A tea candle is not a candle...<ul><li>Hawai'i</li><li>Sorkinville</li><li>Heather becomes a bookie</li><li>The amazing <a href=\"https://en.wikipedia.org/wiki/Steve_Buscemi\">Steve Buscemi</a></li><li>The amazing <a href=\"http://dannytrejo.net\">Danny Trejo</a></li><li>2016 U.S. Presidential Politics</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0004/polyvox.episode4.1000.png"
+        }
+      }},
+      { "itunes:duration": "1:47:59" }
     ]
   }]
 }
