@@ -15,7 +15,7 @@ function json2rss() {
       feed.item(item);
     });
 
-    var output = feed.xml({ indent: true });
+    var output = feed.xml({ indent: true }).replace(/<\/li>/g, '</li>\n');
     fs.writeFile(path.join(targetDirectory, 'rss.xml'), output, function (e) {
       if (e) {
         console.error(e);
