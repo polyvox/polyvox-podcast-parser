@@ -136,5 +136,29 @@
       }},
       { "itunes:duration": "1:47:59" }
     ]
+  }, {
+    "title": "...With a Special Guest",
+    "description": "Introducing our first special guest.",
+    "url": "http://polyvox.audio/podcasts/5.html",
+    "guid": "d5c3021c-b212-42fe-8eae-415ff9f2114f",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 12 Aug 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0005/with-a-special-guest.mp3",
+      "length": "159937317",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Introducing our first special guest." },
+      { "itunes:summary": {
+        "_cdata": "<div>Episode Scorecard: \n<ul><li><a href=\"https://en.wikipedia.org/wiki/Black_Mirror_(TV_series)\">Black Mirror</a>: 1 love, 1 meh, 2 wtf? \n</li><li><a href=\"https://en.wikipedia.org/wiki/Danger_5\">Danger Five</a>: 2 love, 0 meh, 2 wtf? \n</li><li><a href=\"https://en.wikipedia.org/wiki/The_Leftovers_(TV_series)\">The Leftovers</a>: 1 love, 1 meh, 2 wtf? \n</li><li><a href=\"https://en.wikipedia.org/wiki/Fringe_(TV_series)\">Fringe</a>: 1 love, 1 meh, 2 wtf? \n</li></ul></div> <div>Also \n<ul><li>Heather gets locked out of her house \n</li><li>Piracy, the old-fashioned way \n</li><li>Camping in Bosnia \n</li><li>Foreign language childhood songs \n</li><li>Old people, old movies \n</li><li>Cartoons of the 90s \n</li></ul></div>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0005/polyvox.episode5.1000.png"
+        }
+      }},
+      { "itunes:duration": "1:50:58" }
+    ]
   }]
 }
