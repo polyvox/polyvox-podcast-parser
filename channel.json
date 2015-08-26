@@ -160,5 +160,29 @@
       }},
       { "itunes:duration": "1:50:58" }
     ]
+  }, {
+    "title": "Oh, What a Luxury It Be",
+    "description": "The score: Bryan 42%, Heather 42%, Curtis 16%",
+    "url": "http://polyvox.audio/podcasts/6.html",
+    "guid": "bd4d2f23-15ee-4276-9a9f-e4fe206e3d5e",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 26 Aug 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0006/smooth-jazz-and-dirty-limeericks.mp3",
+      "length": "72031124",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "The score: Bryan 42%, Heather 42%, Curtis 16%" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>We talk about The Wiz, Wizards, The Wizard \n</li><li>Bryan’s broken phone (a moment of silence, please) \n</li><li>Agile.NEXT Conference discussion - what we learned \n</li><li>Movie ideas and Bryan’s wonderful amazing transition in to Entourage \n</li><li>Best software we’ve used \n</li><li>Minor dabble in to money and how it can influence politics \n</li><li>Heather explains “The Yes Game” \n</li><li>Heather has difficulty finding which way is North \n</li><li>Hygeine and hands-free peeing \n</li><li>Malcolm Gladwell’s Connectors, Mavens, and Salesmen \n</li><li>Curtis' high-school presidential campaign \n</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/polyvox.green.512.png"
+        }
+      }},
+      { "itunes:duration": "1:39:57" }
+    ]
   }]
 }
