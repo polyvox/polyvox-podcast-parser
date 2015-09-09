@@ -184,5 +184,29 @@
       }},
       { "itunes:duration": "1:39:57" }
     ]
+  }, {
+    "title": "Islamabad Taco Bell",
+    "description": "<ul><li>Heather introduces Bryan and Curtis</li><li>Rim shot!</li><li>A search for boring topics</li><li>Mad Max: Fury Road</li><li>Ageism</li><li>Tariq's wicked-weird dream</li><li>Heather's Primate Science Quiz</li><li>Amazon: both sides of the controversy</li><li>US immigration policy and \"the right of the soil\"</li><li>\"Female Viagra\"</li><li>Bryan gets quiet...</li><li>Tariq corrects Curtis on lice and nitpicking</li></ul>",
+    "url": "http://polyvox.audio/podcasts/7.html",
+    "guid": "ec3a961a-53dd-450a-9451-5df39c60fe9d",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 09 Sep 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0007/its-all-about-the-intros.mp3",
+      "length": "80323662",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Our friend, Tariq, shows up on the podcast" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Heather introduces Bryan and Curtis \n</li><li>Rim shot! \n</li><li>A search for boring topics \n</li><li>Mad Max: Fury Road \n</li><li>Ageism \n</li><li>Tariq's wicked-weird dream \n</li><li>Heather's Primate Science Quiz \n</li><li>Amazon: both sides of the controversy \n</li><li>US immigration policy and \"the right of the soil\" \n</li><li>\"Female Viagra\" \n</li><li>Bryan gets quiet... \n</li><li>Tariq corrects Curtis on lice and nitpicking \n</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0007/polyvox.episode7.1000.png"
+        }
+      }},
+      { "itunes:duration": "1:51:40" }
+    ]
   }]
 }
