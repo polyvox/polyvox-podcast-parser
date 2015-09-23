@@ -208,5 +208,29 @@
       }},
       { "itunes:duration": "1:51:40" }
     ]
+  }, {
+    "title": "Heather and Curtis Birthday Bash",
+    "description": "<ul><li>Curtis babbles about tasty edibles \n</li><li>The dreaded brief talk about podcasting equipment \n</li><li>Notes, <a href=\"http://fieldnotesbrand.com\">Field Notes</a>, and note-taking habits \n</li><li>Curtis' new <a href=\"http://www.daskeyboard.com\">Das Keyboard</a> for Mac \n</li><li>Follow up: Bryan's Breakfast at Tiffany's review \n</li><li>The location of consciousness \n</li><li>CONCERTS! \n</li><li>The archaelogical dig of Bryan's Amazon Wish List \n</li><li>Heather's birthday gifts review \n</li><li>Dream interpretation by Heather \n</li><li>Curtis' birthday gifts review \n</li><li>polyvox swag \n</li><li>The Internet of Mobs \n</li><li>Heather and Bryan take the (now closed) <a href=\"https://xkcd.com/1572/\">XKCD survey</a>!</li></ul>",
+    "url": "http://polyvox.audio/podcasts/8.html",
+    "guid": "f72857b2-b11d-4869-b257-f4c15e0a0d18",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 23 Sep 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0008/heather-and-curtis-birthdays-galore.mp3",
+      "length": "73369235",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Dreams of lobsters and lobster dreams" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Curtis babbles about tasty edibles \n</li><li>The dreaded brief talk about podcasting equipment \n</li><li>Notes, <a href=\"http://fieldnotesbrand.com\">Field Notes</a>, and note-taking habits \n</li><li>Curtis' new <a href=\"http://www.daskeyboard.com\">Das Keyboard</a> for Mac \n</li><li>Follow up: Bryan's Breakfast at Tiffany's review \n</li><li>The location of consciousness \n</li><li>CONCERTS! \n</li><li>The archaelogical dig of Bryan's Amazon Wish List \n</li><li>Heather's birthday gifts review \n</li><li>Dream interpretation by Heather \n</li><li>Curtis' birthday gifts review \n</li><li>polyvox swag \n</li><li>The Internet of Mobs \n</li><li>Heather and Bryan take the (now closed) <a href=\"https://xkcd.com/1572/\">XKCD survey</a>!</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0008/polyvox.episode8.1000.png"
+        }
+      }},
+      { "itunes:duration": "1:51:40" }
+    ]
   }]
 }
