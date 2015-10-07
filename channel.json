@@ -232,5 +232,29 @@
       }},
       { "itunes:duration": "1:51:40" }
     ]
+  }, {
+    "title": "Technical Difficulties: Please Stand By",
+    "description": "<ul><li>Bryan has technical difficulty   </li><li>Heather drives to an appointment and <a href=\"https://goo.gl/maps/kFP7hnsHFZU2\" target=\"_blank\">hits traffic</a>   </li><li>The pleasure of maintaining a list   </li><li>Middletros of Bryan and Heather  </li><li>Bryan's continued woes about keeping a digital library   </li><li>iOS 9: release and features  </li><li><a href=\"https://en.wikipedia.org/wiki/James_Spader\" target=\"_blank\">James Spader!</a>   </li><li>Follow-Up: Donation to Our Lady of Perpetual Exemption   </li><li><a href=\"https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai\" target=\"_blank\">Ghost Dog: The Way of the Samurai</a>  </li><li>Watching news and not watching news  </li><li>Update on The Building of Tariq's House  </li><li>The loss of Alex McLeod from Trading Spaces  </li><li>Curtis' Shirt Social Experiment  </li><li>Gross Artwork  </li><li><a href=\"https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident\" target=\"_blank\">Ahmed Mohammed</a>  </li><li>Bryan's follow-up time measurement quiz  </li><li>Indian astrological time   </li><li>Jack smack   </li></ul>",
+    "url": "http://polyvox.audio/podcasts/9.html",
+    "guid": "09cf1b8a-0d3a-4714-8c41-99613a8e9743",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 07 Oct 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0009/bryan-has-technical-difficulties.mp3",
+      "length": "113047473",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Clocks as bombs and shirts" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Bryan has technical difficulty   </li><li>Heather drives to an appointment and <a href=\"https://goo.gl/maps/kFP7hnsHFZU2\" target=\"_blank\">hits traffic</a>   </li><li>The pleasure of maintaining a list   </li><li>Middletros of Bryan and Heather  </li><li>Bryan's continued woes about keeping a digital library   </li><li>iOS 9: release and features  </li><li><a href=\"https://en.wikipedia.org/wiki/James_Spader\" target=\"_blank\">James Spader!</a>   </li><li>Follow-Up: Donation to Our Lady of Perpetual Exemption   </li><li><a href=\"https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai\" target=\"_blank\">Ghost Dog: The Way of the Samurai</a>  </li><li>Watching news and not watching news  </li><li>Update on The Building of Tariq's House  </li><li>The loss of Alex McLeod from Trading Spaces  </li><li>Curtis' Shirt Social Experiment  </li><li>Gross Artwork  </li><li><a href=\"https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident\" target=\"_blank\">Ahmed Mohammed</a>  </li><li>Bryan's follow-up time measurement quiz  </li><li>Indian astrological time   </li><li>Jack smack   </li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0008/polyvox.episode9.1400.png"
+        }
+      }},
+      { "itunes:duration": "1:51:40" }
+    ]
   }]
 }
