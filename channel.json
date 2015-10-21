@@ -256,5 +256,29 @@
       }},
       { "itunes:duration": "1:51:40" }
     ]
+  }, {
+    "title": "The Return of the King",
+    "description": "<ul> <li>Not the NEWS!</li> <li>The states of pot in states</li> <li>Quiz-O-Rama!</li> <li>Correction (thanks to Jack)</li> <li>CUTE INTERRUPTION!</li> <li>The <a href=\"http://www.newyorker.com/magazine/2015/07/20/the-really-big-one\">Cascadia Subduction Zone</a></li> <li><a href=\"http://www.nps.gov/mora/index.htm\">Mt. Ranier National Park</a></li> <li><a href=\"http://www.undergroundtour.com\">Bill Speidel's Underground Tour</a> <li>Colbert vs. COLBERT!</li> <li><a href=\"http://www.tickld.com/x/the-50-states-of-america-if-they-were-actually-people-in-a-bar\">The 50 States Of America If They Were Actually People In A Bar.</a> <li>National events</li> <li>Can we have another Steve Jobs movie?</li> <li>iPhone 6 sales, other Apple products, and iOS 9 problems</li> <li>The generosity of Amazon Prime</li> <li><a href=\"http://www.wsj.com/articles/amazon-seeks-help-with-deliveries-1434466857?mod=e2tw\">Amazon's Next Delivery Drone: You</a></li> <li>Heather joins a writer's bootcamp</li> </ul>",
+    "url": "http://polyvox.audio/podcasts/10.html",
+    "guid": "0893d36a-b501-474a-8fe1-5d7f3d2b8ac8",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 21 Oct 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0010/the-return-of-the-king.mp3",
+      "length": "116907443",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "The DayQuil™ Podcast" },
+      { "itunes:summary": {
+        "_cdata": "<ul> <li>Not the NEWS!</li> <li>The states of pot in states</li> <li>Quiz-O-Rama!</li> <li>Correction (thanks to Jack)</li> <li>CUTE INTERRUPTION!</li> <li>The <a href=\"http://www.newyorker.com/magazine/2015/07/20/the-really-big-one\">Cascadia Subduction Zone</a></li> <li><a href=\"http://www.nps.gov/mora/index.htm\">Mt. Ranier National Park</a></li> <li><a href=\"http://www.undergroundtour.com\">Bill Speidel's Underground Tour</a> <li>Colbert vs. COLBERT!</li> <li><a href=\"http://www.tickld.com/x/the-50-states-of-america-if-they-were-actually-people-in-a-bar\">The 50 States Of America If They Were Actually People In A Bar.</a> <li>National events</li> <li>Can we have another Steve Jobs movie?</li> <li>iPhone 6 sales, other Apple products, and iOS 9 problems</li> <li>The generosity of Amazon Prime</li> <li><a href=\"http://www.wsj.com/articles/amazon-seeks-help-with-deliveries-1434466857?mod=e2tw\">Amazon's Next Delivery Drone: You</a></li> <li>Heather joins a writer's bootcamp</li> </ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0010/polyvox.episode10.1400.png"
+        }
+      }},
+      { "itunes:duration": "1:21:16" }
+    ]
   }]
 }
