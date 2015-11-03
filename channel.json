@@ -280,5 +280,29 @@
       }},
       { "itunes:duration": "1:21:16" }
     ]
+  }, {
+    "title": "The Best (and Worst) Quizzes",
+    "description": "Shannon Smoke is not our guest.<ul><li>SHANNON SMOKE! Happy birthday. </li><li>SHANNON SMOKE! Happy wedding. </li><li>Halloween costumes of the young and old </li><li>Muppets and martians </li><li>Heather attends a political rally </li><li><a href=\"http://www.murderbychocolate.com/\" target=\"_blank\">Murder by chocolate</a></li><li>Bryan gets a new garage and laundry room </li><li>Curtis recalls his time on the <a href=\"http://seattlegreatwheel.com/\" target=\"_blank\">Seattle Great Wheel</a></li><li>Bryan asks the best quiz ever </li><li><a href=\"http://www.fresca.com/\" target=\"_blank\">Fresca</a></li><li>Heather asks the worst quiz ever </li><li>An update on the House that Tariq Built </li><li>What does your coffee say about you? </li><li>Bryan presents the news </li><li>The psychology about self-driving cars </li><li>Heather first eats a ... jackfruit! </li><li>Three stories about Otis Spunkmeyer </li><li>Ebola News Alert! </li><li>Richard Stallman has honorary Peruvian doctorates </li></ul>",
+    "url": "http://polyvox.audio/podcasts/10.html",
+    "guid": "59d45c66-4b16-4a5b-acfa-4ba3c70d953e",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 03 Nov 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0011/its-the-best-quiz-we-have-ever-taken.mp3",
+      "length": "233026392",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Shannon Smoke is not our guest." },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>SHANNON SMOKE! Happy birthday. </li><li>SHANNON SMOKE! Happy wedding. </li><li>Halloween costumes of the young and old </li><li>Muppets and martians </li><li>Heather attends a political rally </li><li><a href=\"http://www.murderbychocolate.com/\" target=\"_blank\">Murder by chocolate</a></li><li>Bryan gets a new garage and laundry room </li><li>Curtis recalls his time on the <a href=\"http://seattlegreatwheel.com/\" target=\"_blank\">Seattle Great Wheel</a></li><li>Bryan asks the best quiz ever </li><li><a href=\"http://www.fresca.com/\" target=\"_blank\">Fresca</a></li><li>Heather asks the worst quiz ever </li><li>An update on the House that Tariq Built </li><li>What does your coffee say about you? </li><li>Bryan presents the news </li><li>The psychology about self-driving cars </li><li>Heather first eats a ... jackfruit! </li><li>Three stories about Otis Spunkmeyer </li><li>Ebola News Alert! </li><li>Richard Stallman has honorary Peruvian doctorates </li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0011/polyvox.episode11.1400.png"
+        }
+      }},
+      { "itunes:duration": "1:37:05" }
+    ]
   }]
 }
