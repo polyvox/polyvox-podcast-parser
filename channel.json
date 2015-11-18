@@ -286,7 +286,7 @@
     "url": "http://polyvox.audio/podcasts/10.html",
     "guid": "59d45c66-4b16-4a5b-acfa-4ba3c70d953e",
     "categories": [ "Society and Culture", "Technology" ],
-    "date": "Wed, 03 Nov 2015 05:00:00 GMT",
+    "date": "Wed, 04 Nov 2015 05:00:00 GMT",
     "enclosure": {
       "url": "http://podcasts.polyvox.audio/media/0011/its-the-best-quiz-we-have-ever-taken.mp3",
       "length": "233026392",
@@ -303,6 +303,30 @@
         }
       }},
       { "itunes:duration": "1:37:05" }
+    ]
+  }, {
+    "title": "J. K. Rowlong",
+    "description": "<ul><li>Curtis introduces Jack!</li><li>Bryan rhymes in Jack!</li><li>Our four favored sitcoms</li><li>Is <a href=\"http://www.google.com/finance?q=NASDAQ:AAPL\">Apple's</a> growth at an end?</li><li>The elevator teaches us things</li><li><a href=\"http://ubereats.com\">Uber Eats</a></li><li>Jack's Great American One-Page Novel</li><li>Jack's plan to make a lot of money with no effort</li><li>Not the News!</li><li><a href=\"https://www.worldseries.com\">World Series</a> update</li><li>Drinking and hallucinating</li><li>Keyboard layouts for keyboard nerds</li><li><a href=\"https://en.wikipedia.org/wiki/Napster\">Napster</a> and its effect on the music industry</li><li>New Game: what comes out of the vending machine in the women's restroom></li></ul>",
+    "url": "http://polyvox.audio/podcasts/11.html",
+    "guid": "dc44985d-fb7f-4aca-874d-745de16dd26f",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 18 Nov 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0012/guest-host-jack-talks-with-us.mp3",
+      "length": "158561091",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "What's up with those STDs?" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Curtis introduces Jack!</li><li>Bryan rhymes in Jack!</li><li>Our four favored sitcoms</li><li>Is <a href=\"http://www.google.com/finance?q=NASDAQ:AAPL\">Apple's</a> growth at an end?</li><li>The elevator teaches us things</li><li><a href=\"http://ubereats.com\">Uber Eats</a></li><li>Jack's Great American One-Page Novel</li><li>Jack's plan to make a lot of money with no effort</li><li>Not the News!</li><li><a href=\"https://www.worldseries.com\">World Series</a> update</li><li>Drinking and hallucinating</li><li>Keyboard layouts for keyboard nerds</li><li><a href=\"https://en.wikipedia.org/wiki/Napster\">Napster</a> and its effect on the music industry</li><li>New Game: what comes out of the vending machine in the women's restroom></li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0012/polyvox.episode12.1400.png"
+        }
+      }},
+      { "itunes:duration": "1:50:04" }
     ]
   }]
 }
