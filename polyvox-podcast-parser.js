@@ -24,7 +24,9 @@ function json2rss() {
   });
 }
 
-var rule = new schedule.RecurrenceRule();
-rule.minute = 0;
-schedule.scheduleJob(rule, json2rss);
+if (!process.env.NORUN) {
+  var rule = new schedule.RecurrenceRule();
+  rule.minute = 0;
+  schedule.scheduleJob(rule, json2rss);
+}
 json2rss();
