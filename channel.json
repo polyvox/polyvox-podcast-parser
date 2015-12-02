@@ -329,19 +329,19 @@
       { "itunes:duration": "1:50:04" }
     ]
   }, {
-    "title": "",
+    "title": "TK2: The Rise of the Argument",
     "description": "<ul><li>We begin with the <a href=\"http://houston.astros.mlb.com/hou/ticketing/cricket.jsp\">Cricket All-Stars</a></li><li>Welcome back, Tariq, for our six-month anniversary!</li><li><a href=\"http://www.foxnews.com/live-coverage/fox-news-republican-presidential-primary-debate\">One debate.</a> <a href=\"https://en.wikipedia.org/wiki/Bill_Nye%E2%80%93Ken_Ham_debate\">Two debate.</a> Red debate. Blue debate.</li><li>The House that Tariq Built</li><li>The Baby that Bryan Built</li><li>Virtual reality and <a href=\"https://www.microsoft.com/microsoft-hololens/en-us\">Microsoft HoloLens</a></li><li><a href=\"https://en.wikipedia.org/wiki/Houston,_Texas_Proposition_1,_2015\">Houston, Texas Proposition 1, 2015</a></li><li>Quiz Time: POP CULTURE!</li><li>Movies! Movies! Movies!</li><li>Not the News!</li><li>Phone usability</li><li>What does it mean to be a contributing member of society?</li><li>The V Quiz</li><li>Bryan bought a new toy</li></ul>",
     "url": "http://polyvox.audio/podcasts/13.html",
     "guid": "6020cebb-d22f-447a-93fb-cd09280ee5ce",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 02 Dec 2015 05:00:00 GMT",
     "enclosure": {
-      "url": "",
-      "length": "",
+      "url": "http://podcasts.polyvox.audio/media/0013/the-most-exciting-episode-yet.mp3",
+      "length": "1:40:01",
       "type": "audio/mpeg"
     },
     "custom_elements": [
-      { "itunes:subtitle": "" },
+      { "itunes:subtitle": "The most \"exciting\" episode yet..." },
       { "itunes:summary": {
         "_cdata": "<ul><li>We begin with the <a href=\"http://houston.astros.mlb.com/hou/ticketing/cricket.jsp\">Cricket All-Stars</a></li><li>Welcome back, Tariq, for our six-month anniversary!</li><li><a href=\"http://www.foxnews.com/live-coverage/fox-news-republican-presidential-primary-debate\">One debate.</a> <a href=\"https://en.wikipedia.org/wiki/Bill_Nye%E2%80%93Ken_Ham_debate\">Two debate.</a> Red debate. Blue debate.</li><li>The House that Tariq Built</li><li>The Baby that Bryan Built</li><li>Virtual reality and <a href=\"https://www.microsoft.com/microsoft-hololens/en-us\">Microsoft HoloLens</a></li><li><a href=\"https://en.wikipedia.org/wiki/Houston,_Texas_Proposition_1,_2015\">Houston, Texas Proposition 1, 2015</a></li><li>Quiz Time: POP CULTURE!</li><li>Movies! Movies! Movies!</li><li>Not the News!</li><li>Phone usability</li><li>What does it mean to be a contributing member of society?</li><li>The V Quiz</li><li>Bryan bought a new toy</li></ul>"
       }},
