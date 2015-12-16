@@ -353,19 +353,19 @@
       { "itunes:duration": "1:40:01" }
     ]
   }, {
-    "title": "",
+    "title": "Crossing State Lines",
     "description": "<ul><li>Thanksgiving in <a href=\"https://www.youtube.com/watch?v=e8TUwHTfOOU\">Albuquerque</a></li><li>Curtis' new music: <a href=\"https://en.wikipedia.org/wiki/Kicker_(album)\">Kicker</a> by Zella Day</li><li>Push-ups, pull-ups, and diving</li><li>New Mexico holiday meal: Perfect pies and wonderful wines</li><li>Texas holiday meal: Beer cans and fried turkeys</li><li>Bryan's new super-cool video camera</li><li>Heather's horrible, awful idea</li><li>The U.S. Naturalization Quiz</li><li>Hail to the Chief by <a href=\"http://davidcaceres.com/music.html\">David Caceres</a></li><li>Drinks, drinks named after terrorist acts, and drinks with narcotics in it</li><li><a href=\"https://en.wikipedia.org/wiki/Taboo_(TV_series)\">Taboo</a> on NatGeo, no wait!, Fox Entertainment</li><li>OMG! Marissa Tomei is in her 50s!</li><li>Albuquerque news: nothing happens in Albuquerque</li><li>Horoscopes from the Albuquerque Alibi</li><li>New Segment: Missed Connections, the Albuquerque Edition</li></ul>",
     "url": "http://polyvox.audio/podcasts/14.html",
     "guid": "5c16dd91-5e65-4401-8d49-50d993c42686",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 16 Dec 2015 05:00:00 GMT",
     "enclosure": {
-      "url": "http://podcasts.polyvox.audio/media/0014/",
-      "length": "",
+      "url": "http://podcasts.polyvox.audio/media/0014/crossing-state-lines.mp3",
+      "length": "64639853",
       "type": "audio/mpeg"
     },
     "custom_elements": [
-      { "itunes:subtitle": "" },
+      { "itunes:subtitle": "poyvox on the run" },
       { "itunes:summary": {
         "_cdata": "<ul><li>Thanksgiving in <a href=\"https://www.youtube.com/watch?v=e8TUwHTfOOU\">Albuquerque</a></li><li>Curtis' new music: <a href=\"https://en.wikipedia.org/wiki/Kicker_(album)\">Kicker</a> by Zella Day</li><li>Push-ups, pull-ups, and diving</li><li>New Mexico holiday meal: Perfect pies and wonderful wines</li><li>Texas holiday meal: Beer cans and fried turkeys</li><li>Bryan's new super-cool video camera</li><li>Heather's horrible, awful idea</li><li>The U.S. Naturalization Quiz</li><li>Hail to the Chief by <a href=\"http://davidcaceres.com/music.html\">David Caceres</a></li><li>Drinks, drinks named after terrorist acts, and drinks with narcotics in it</li><li><a href=\"https://en.wikipedia.org/wiki/Taboo_(TV_series)\">Taboo</a> on NatGeo, no wait!, Fox Entertainment</li><li>OMG! Marissa Tomei is in her 50s!</li><li>Albuquerque news: nothing happens in Albuquerque</li><li>Horoscopes from the Albuquerque Alibi</li><li>New Segment: Missed Connections, the Albuquerque Edition</li></ul>"
       }},
@@ -374,7 +374,7 @@
           "href": "http://podcasts.polyvox.audio/media/0014/polyvox.episode14.1400.png"
         }
       }},
-      { "itunes:duration": "" }
+      { "itunes:duration": "1:29:54" }
     ]
   }]
 }
