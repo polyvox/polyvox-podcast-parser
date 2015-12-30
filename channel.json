@@ -365,7 +365,7 @@
       "type": "audio/mpeg"
     },
     "custom_elements": [
-      { "itunes:subtitle": "poyvox on the run" },
+      { "itunes:subtitle": "polyvox on the run" },
       { "itunes:summary": {
         "_cdata": "<ul><li>Thanksgiving in <a href=\"https://www.youtube.com/watch?v=e8TUwHTfOOU\">Albuquerque</a></li><li>Curtis' new music: <a href=\"https://en.wikipedia.org/wiki/Kicker_(album)\">Kicker</a> by Zella Day</li><li>Push-ups, pull-ups, and diving</li><li>New Mexico holiday meal: Perfect pies and wonderful wines</li><li>Texas holiday meal: Beer cans and fried turkeys</li><li>Bryan's new super-cool video camera</li><li>Heather's horrible, awful idea</li><li>The U.S. Naturalization Quiz</li><li>Hail to the Chief by <a href=\"http://davidcaceres.com/music.html\">David Caceres</a></li><li>Drinks, drinks named after terrorist acts, and drinks with narcotics in it</li><li><a href=\"https://en.wikipedia.org/wiki/Taboo_(TV_series)\">Taboo</a> on NatGeo, no wait!, Fox Entertainment</li><li>OMG! Marissa Tomei is in her 50s!</li><li>Albuquerque news: nothing happens in Albuquerque</li><li>Horoscopes from the Albuquerque Alibi</li><li>New Segment: Missed Connections, the Albuquerque Edition</li></ul>"
       }},
@@ -375,6 +375,30 @@
         }
       }},
       { "itunes:duration": "1:29:54" }
+    ]
+  }, {
+    "title": "The Hāligdæg Episode",
+    "description": "<ul><li>Bryan's new DIY dream</li><li><a href=\"https://txrxlabs.org\">Tx/Rx Labs</a></li><li>The House That Tariq Built</li><li>The beautiful country of <a href=\"https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html\">Lithuania</a></li><li>VOLDEMORT!</li><li>Quiz time: Top-Selling Toys of All-Time</li><li>Story time: Why we hang stockings</li><li>Quiz time: Turkey Math</li><li>Making egg nog</li><li>Christmas fun facts</li><li>New Year's Eve fun facts</li><li>Our best Christmases</li><li>Public transportation</li><li><a href=\"http://www.amafca.org/media/snowman.html\">Tumbleweed Snowman!</a></li><li>Heather gets her first gift of the holiday season</li><li>Endangered animals: the American middle-class</li><li>The vapors</li><li>Inside the Actor's Studio Quiz</li></ul>",
+    "url": "http://polyvox.audio/podcasts/15.html",
+    "guid": "84748e21-f6d6-41b1-9090-3f6ed7dca31b",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 30 Dec 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0015/its-in-the-bag.mp3",
+      "length": "70533534",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Happy Holidays! (and social unrest)" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Bryan's new DIY dream</li><li><a href=\"https://txrxlabs.org\">Tx/Rx Labs</a></li><li>The House That Tariq Built</li><li>The beautiful country of <a href=\"https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html\">Lithuania</a></li><li>VOLDEMORT!</li><li>Quiz time: Top-Selling Toys of All-Time</li><li>Story time: Why we hang stockings</li><li>Quiz time: Turkey Math</li><li>Making egg nog</li><li>Christmas fun facts</li><li>New Year's Eve fun facts</li><li>Our best Christmases</li><li>Public transportation</li><li><a href=\"http://www.amafca.org/media/snowman.html\">Tumbleweed Snowman!</a></li><li>Heather gets her first gift of the holiday season</li><li>Endangered animals: the American middle-class</li><li>The vapors</li><li>Inside the Actor's Studio Quiz</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0015/polyvox.episode15.1400.png"
+        }
+      }},
+      { "itunes:duration": "1:38:01" }
     ]
   }]
 }
