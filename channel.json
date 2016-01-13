@@ -400,5 +400,29 @@
       }},
       { "itunes:duration": "1:38:01" }
     ]
+  }, {
+    "title": "Princesses, Patronuses, and Doughnuts",
+    "description": "<ul><li>Heather gets her first Christmas gift</li><li>Customer service</li><li>Tow-truck stories</li><li>Let&#39;s all use 100% of our brain</li><li>What Disney Princesses (TM) are Bryan and Curtis?</li><li>What is Bryan&#39;s spirit animal?</li><li>What is Heather&#39;s patronus?</li><li>What is Curtis&#39; ... are these quizzes over, yet?</li><li>Curtis&#39; Dumb Facts!</li><li>Curtis clears Shipley Doughnuts good name</li></ul>",
+    "url": "http://polyvox.audio/podcasts/16.html",
+    "guid": "981b1e65-b58d-4429-8a65-bf7eda40d254",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 13 Jan 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0016/what-disney-princess-are-we.mp3",
+      "length": "58567240",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Patronuses? Isn't that Patroni?" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Heather gets her first Christmas gift</li><li>Customer service</li><li>Tow-truck stories</li><li>Let&#39;s all use 100% of our brain</li><li>What Disney Princesses (TM) are Bryan and Curtis?</li><li>What is Bryan&#39;s spirit animal?</li><li>What is Heather&#39;s patronus?</li><li>What is Curtis&#39; ... are these quizzes over, yet?</li><li>Curtis&#39; Dumb Facts!</li><li>Curtis clears Shipley Doughnuts good name</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0016/polyvox.episode16.1400.png"
+        }
+      }},
+      { "itunes:duration": "1:21:23" }
+    ]
   }]
 }
