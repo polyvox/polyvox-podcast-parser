@@ -424,5 +424,29 @@
       }},
       { "itunes:duration": "1:21:23" }
     ]
+  }, {
+    "title": "And, Now, a Word from...",
+    "description": "",
+    "url": "http://polyvox.audio/podcasts/17.html",
+    "guid": "bdab9009-fef1-471c-8b91-b19c5094338c",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 27 Jan 2015 05:00:00 GMT",
+    "enclosure": {
+      "url": "",
+      "length": "",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "" },
+      { "itunes:summary": {
+        "_cdata": ""
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": ""
+        }
+      }},
+      { "itunes:duration": "1:13:42" }
+    ]
   }]
 }
