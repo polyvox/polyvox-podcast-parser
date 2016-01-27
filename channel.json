@@ -426,24 +426,24 @@
     ]
   }, {
     "title": "And, Now, a Word from...",
-    "description": "",
+    "description": "<h3>Sponsors!</h3> <ul> <li>Rundell Bespoke Leatherworks</li> </ul> <h3>Show notes</h3> <ul> <li>Bryan lives his fantasy as a shock jock</li> <li>We're going to win the lottery!</li> <li>It's fun to play the quiet game on a podcast</li> <li>Where does Liv Tyler live?</li> <li>Talk about our sponsor</li> <li>Origami is for squares</li> <li>Bryan refuses to sell out</li> <li>Heather comes out and breaks herself</li> <li>Then, she cleaned her Inbox</li> <li>Insurance companies &lt;3 Bryan</li> <li>Curtis makes up another story. Again.</li> <li>Curtis brags about his dumb podcast-listening habit</li> <li>Computers think Curtis is old and ugly</li> <li>The House that Tariq Built</li> <li>Interesting facts about Texas!</li> </ul>",
     "url": "http://polyvox.audio/podcasts/17.html",
     "guid": "bdab9009-fef1-471c-8b91-b19c5094338c",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 27 Jan 2015 05:00:00 GMT",
     "enclosure": {
-      "url": "",
-      "length": "",
+      "url": "http://podcasts.polyvox.audio/media/0017/and-now-a-word-from-our-sponsor.mp3",
+      "length": "52986863",
       "type": "audio/mpeg"
     },
     "custom_elements": [
-      { "itunes:subtitle": "" },
+      { "itunes:subtitle": "Let's get plastered!" },
       { "itunes:summary": {
-        "_cdata": ""
+        "_cdata": "<h3>Sponsors!</h3> <ul> <li>Rundell Bespoke Leatherworks</li> </ul> <h3>Show notes</h3> <ul> <li>Bryan lives his fantasy as a shock jock</li> <li>We're going to win the lottery!</li> <li>It's fun to play the quiet game on a podcast</li> <li>Where does Liv Tyler live?</li> <li>Talk about our sponsor</li> <li>Origami is for squares</li> <li>Bryan refuses to sell out</li> <li>Heather comes out and breaks herself</li> <li>Then, she cleaned her Inbox</li> <li>Insurance companies &lt;3 Bryan</li> <li>Curtis makes up another story. Again.</li> <li>Curtis brags about his dumb podcast-listening habit</li> <li>Computers think Curtis is old and ugly</li> <li>The House that Tariq Built</li> <li>Interesting facts about Texas!</li> </ul>"
       }},
       { "itunes:image": {
         "_attr": {
-          "href": ""
+          "href": "http://podcasts.polyvox.audio/media/0017/polyvox.episode17.1600.png"
         }
       }},
       { "itunes:duration": "1:13:42" }
