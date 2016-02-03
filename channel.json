@@ -448,5 +448,29 @@
       }},
       { "itunes:duration": "1:13:42" }
     ]
+  }, {
+    "title": "Craigslist Theater #1",
+    "description": "Craigslist Theater reads aloud the best of Internet missed connections, rants and raves, and other such Royal Nonesuch.",
+    "url": "http://polyvox.audio/podcasts/18.html",
+    "guid": "7e61c74f-1a0a-4cdf-8b2b-da26c98b7dcd",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 03 Feb 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0017.1/craigslist-theater-1.mp3",
+      "length": "2604141",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Chippendale Who Suffered Head Injury, Hurt Back" },
+      { "itunes:summary": {
+        "_cdata": "Craigslist Theater reads aloud the best of Internet missed connections, rants and raves, and other such Royal Nonesuch."
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0017.1/craigslist-theater.episode1.1600.png"
+        }
+      }},
+      { "itunes:duration": "0:03:35" }
+    ]
   }]
 }
