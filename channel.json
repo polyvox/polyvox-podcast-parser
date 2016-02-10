@@ -449,7 +449,7 @@
       { "itunes:duration": "1:13:42" }
     ]
   }, {
-    "title": "Craigslist Theater #1",
+    "title": "Craigslist Theater 1",
     "description": "Craigslist Theater reads aloud the best of Internet missed connections, rants and raves, and other such Royal Nonesuch.",
     "url": "http://polyvox.audio/podcasts/18.html",
     "guid": "7e61c74f-1a0a-4cdf-8b2b-da26c98b7dcd",
@@ -471,6 +471,30 @@
         }
       }},
       { "itunes:duration": "0:03:35" }
+    ]
+  }, {
+    "title": "I, BROWSE",
+    "description": "<ul><li>Heather and her hair</li><li>Ashley Morris asks about eyebrows</li><li>The Texans didn't do well. But, it's after the Super Bowl, now, so who cares?</li><li>Sharing the candid feedback we've received</li><li>Cult films</li><li>Trying to plan our first event</li><li>Not a quiz, but it sounds like a quiz, about TV quotes</li><li>Heather's morose traffic thought</li><li>British Parliament talks does nothing about Donald Trump</li><li>The election cycle</li><li>Star Wars interquel: Rogue One</li><li>Conversational quirks</li><li>Scooby-Doo character bios</li><li>Fun facts about Belize</li><li>#BigBlueHole for Heather's vacation scavenger hunt!</li><li>Shredder! (Not the rat...)</li></ul>",
+    "url": "http://polyvox.audio/podcasts/19.html",
+    "guid": "8f447ef7-1a8e-4fc5-a73f-f7bb7c5bb136",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 10 Feb 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0018/what-lucious-eyebrows-you-have.mp3",
+      "length": "70948841",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Oh, homonyms are sooooo funny..." },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Heather and her hair</li><li>Ashley Morris asks about eyebrows</li><li>The Texans didn't do well. But, it's after the Super Bowl, now, so who cares?</li><li>Sharing the candid feedback we've received</li><li>Cult films</li><li>Trying to plan our first event</li><li>Not a quiz, but it sounds like a quiz, about TV quotes</li><li>Heather's morose traffic thought</li><li>British Parliament talks does nothing about Donald Trump</li><li>The election cycle</li><li>Star Wars interquel: Rogue One</li><li>Conversational quirks</li><li>Scooby-Doo character bios</li><li>Fun facts about Belize</li><li>#BigBlueHole for Heather's vacation scavenger hunt!</li><li>Shredder! (Not the rat...)</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0018/polyvox.episode18.2000.png"
+        }
+      }},
+      { "itunes:duration": "1:38:35" }
     ]
   }]
 }
