@@ -496,5 +496,29 @@
       }},
       { "itunes:duration": "1:38:35" }
     ]
+  }, {
+    "title": "Fifteen Percent",
+    "description": "Just listen. Nobody really looks at these, anyway.",
+    "url": "http://polyvox.audio/podcasts/20.html",
+    "guid": "9b019b3b-7e64-4c1c-9c46-924b4d215389",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 24 Feb 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0019/jk-rowlong-makes-a-surprise-appearance.mp3",
+      "length": "73352791",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Or more..." },
+      { "itunes:summary": {
+        "_cdata": "Just listen. Nobody really looks at these, anyway."
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/polyvox.green.3000.png"
+        }
+      }},
+      { "itunes:duration": "1:41:48" }
+    ]
   }]
 }
