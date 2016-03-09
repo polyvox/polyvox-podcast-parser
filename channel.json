@@ -520,5 +520,29 @@
       }},
       { "itunes:duration": "1:41:48" }
     ]
+  }, {
+    "title": "¡Politicos Magnificos!",
+    "description": "<ul><li>Bryan has hair and a HUD </li> <li>Heather has an emergency vehicle laptop </li> <li>Apple hates cancer and hates decryption </li> <li>Video: <a href=\"https://www.youtube.com/watch?v=d-7o9xYp7eE\" target=\"_blank\">Don't Talk to Police</a> </li> <li>Bryan &lt;3 <a href=\"https://www.facebook.com/WillFerrell/\" target=\"_blank\">Will Ferrell</a> </li> <li>Heather vs. the wind; the wind won </li> <li>HUNH! Pinball! </li> <li>Heather learns about MST3K </li> <li>Not the NEWS! </li> <li>Bryan broods over politics and economics </li><li>Ving Rhames, Dave, and Kill Bill </li> <li>Super hero movies </li></ul>",
+    "url": "http://polyvox.audio/podcasts/21.html",
+    "guid": "16f8a9d5-6ed8-4a9c-afe6-32f1962856a2",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 9 Mar 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0020/politicos-magnificos.mp3",
+      "length": "64786919",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "I don't think that's really Spanish..." },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Bryan has hair and a HUD </li> <li>Heather has an emergency vehicle laptop </li> <li>Apple hates cancer and hates decryption </li> <li>Video: <a href=\"https://www.youtube.com/watch?v=d-7o9xYp7eE\" target=\"_blank\">Don't Talk to Police</a> </li> <li>Bryan &lt;3 <a href=\"https://www.facebook.com/WillFerrell/\" target=\"_blank\">Will Ferrell</a> </li> <li>Heather vs. the wind; the wind won </li> <li>HUNH! Pinball! </li> <li>Heather learns about MST3K </li> <li>Not the NEWS! </li> <li>Bryan broods over politics and economics </li><li>Ving Rhames, Dave, and Kill Bill </li> <li>Super hero movies </li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0020/polyvox.episode.20.2000.png"
+        }
+      }},
+      { "itunes:duration": "1:30:02" }
+    ]
   }]
 }
