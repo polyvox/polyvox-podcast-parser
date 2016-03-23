@@ -544,5 +544,29 @@
       }},
       { "itunes:duration": "1:30:02" }
     ]
+  }, {
+    "title": "You Better Belize It, Man",
+    "description": "It's mostly about Belize. What more does there need to be?",
+    "url": "http://polyvox.audio/podcasts/21.html",
+    "guid": "ac086d8f-7504-4317-a1dc-9a029aa566cf",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 23 Mar 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0021/you-better-belize-it-mon.mp3",
+      "length": "63102756",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Now, with more words." },
+      { "itunes:summary": {
+        "_cdata": "It's mostly about Belize. What more does there need to be?"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0021/polyvox.episode.21.2000.png"
+        }
+      }},
+      { "itunes:duration": "1:27:42" }
+    ]
   }]
 }
