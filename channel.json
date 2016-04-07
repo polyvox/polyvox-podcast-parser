@@ -568,5 +568,29 @@
       }},
       { "itunes:duration": "1:27:42" }
     ]
+  }, {
+    "title": "[You title it]",
+    "description": "These are the ideas of all men in all times and lands. They are not original to me.",
+    "url": "http://polyvox.audio/podcasts/21.html",
+    "guid": "c39b5369-88cb-456d-b2c7-0a5e60b78943",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Thu, 08 Apr 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0022/its-a-real-world-tour-around-here.mp3",
+      "length": "41201474",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Sing this body electric" },
+      { "itunes:summary": {
+        "_cdata": "These are the ideas of all men in all times and lands. They are not original to me."
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/polyvox.green.3000.png"
+        }
+      }},
+      { "itunes:duration": "0:54:18" }
+    ]
   }]
 }
