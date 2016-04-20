@@ -547,7 +547,7 @@
   }, {
     "title": "You Better Belize It, Mon!",
     "description": "It's mostly about Belize. What more does there need to be?",
-    "url": "http://polyvox.audio/podcasts/21.html",
+    "url": "http://polyvox.audio/podcasts/22.html",
     "guid": "ac086d8f-7504-4317-a1dc-9a029aa566cf",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Wed, 23 Mar 2016 05:00:00 GMT",
@@ -571,7 +571,7 @@
   }, {
     "title": "[You title it]",
     "description": "These are the ideas of all men in all times and lands. They are not original to me.",
-    "url": "http://polyvox.audio/podcasts/21.html",
+    "url": "http://polyvox.audio/podcasts/23.html",
     "guid": "c39b5369-88cb-456d-b2c7-0a5e60b78943",
     "categories": [ "Society and Culture", "Technology" ],
     "date": "Thu, 08 Apr 2016 05:00:00 GMT",
@@ -591,6 +591,30 @@
         }
       }},
       { "itunes:duration": "0:54:18" }
+    ]
+  }, {
+    "title": "Baseball, Cereal, and Nipples",
+    "description": "<h3>Shannon joins us for a podcast!</h3><ul><li>What's your favorite cereal?</li><li>Nipples: men v. women</li><li>Adam LaRoche and his locker-room kid</li></ul>",
+    "url": "http://polyvox.audio/podcasts/24.html",
+    "guid": "ae3080c3-eae3-49cc-bbdf-60fb09c9e230",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 20 Apr 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0023/baseball%2C%20cereal%2C%20and%20nipples.mp3",
+      "length": "43928198",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "What happens when Shannon finally stops by?" },
+      { "itunes:summary": {
+        "_cdata": "<h3>Shannon joins us for a podcast!</h3><ul><li>What's your favorite cereal?</li><li>Nipples: men v. women</li><li>Adam LaRoche and his locker-room kid</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0023/polyvox.episode.23.2000.png"
+        }
+      }},
+      { "itunes:duration": "1:01:00" }
     ]
   }]
 }
