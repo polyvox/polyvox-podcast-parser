@@ -616,5 +616,29 @@
       }},
       { "itunes:duration": "1:01:00" }
     ]
+  }, {
+    "title": "Boner Sore Ass",
+    "description": "<h1>It's Matt!</h1>",
+    "url": "http://polyvox.audio/podcasts/24.html",
+    "guid": "351e5e66-08a9-41f1-b180-b8d93d2cbe53",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Wed, 4 May 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0024/mathew-boner-sore-ass.mp3",
+      "length": "44409673",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "It's Matt!" },
+      { "itunes:summary": {
+        "_cdata": "<h1>It's Matt!</h1>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/polyvox.green.3000.png"
+        }
+      }},
+      { "itunes:duration": "1:01:42" }
+    ]
   }]
 }
