@@ -640,5 +640,29 @@
       }},
       { "itunes:duration": "1:01:42" }
     ]
+  }, {
+    "title": "Passive Sexism",
+    "description": "<ul><li>Red light cameras</li><li>Curtis explains SCOTUS</li><li>Camping at Goose Island</li><li>#slapthemosquito</li><li>Heather asks a sexist question</li><li>Questions from #polyvoxers</li><li>Heather watched Swingers</li><li>Dustin ran a triathlon</li><li>Watch &quot;The Jungle Book&quot;</li><li>Bryan talks about &quot;Made&quot;</li><li>Competency-based degrees</li><li>Filial scrotal assault</li><li>Texting etiquette</li><li>Mental health alphabet soup</li><li>Animal group names</li></ul>",
+    "url": "http://polyvox.audio/podcasts/25.html",
+    "guid": "efd3cde8-72de-466a-ae5a-cead3fe2baff",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Thu, 19 May 2016 05:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0025/bryan-stands-up-for-women-everywhere.mp3",
+      "length": "47164190",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Better late than never" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Red light cameras</li><li>Curtis explains SCOTUS</li><li>Camping at Goose Island</li><li>#slapthemosquito</li><li>Heather asks a sexist question</li><li>Questions from #polyvoxers</li><li>Heather watched Swingers</li><li>Dustin ran a triathlon</li><li>Watch &quot;The Jungle Book&quot;</li><li>Bryan talks about &quot;Made&quot;</li><li>Competency-based degrees</li><li>Filial scrotal assault</li><li>Texting etiquette</li><li>Mental health alphabet soup</li><li>Animal group names</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/polyvox.green.3000.png"
+        }
+      }},
+      { "itunes:duration": "1:05:34" }
+    ]
   }]
 }
