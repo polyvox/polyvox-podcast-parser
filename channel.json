@@ -664,5 +664,29 @@
       }},
       { "itunes:duration": "1:05:34" }
     ]
+  }, {
+    "title": "It's Been a Long Time",
+    "description": "<ul><li>Vocbulary lesson: philanthropy</li><li>A presidential debate</li><li>Bryan has been drinking</li><li>Bryan wants a new polyvox job</li><li>Happy hour stories</li><li>Heather wants to learn about the ZOMBIE APOCALYPSE!</li></ul>",
+    "url": "http://polyvox.audio/podcasts/26.html",
+    "guid": "199806e0-3f2c-4792-9843-567b56eeeb94",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Mon, 24 Oct 2016 22:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0026/its-been-a-long-time.mp3",
+      "length": "73712593",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Absence makes the heart grow fonder" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Vocbulary lesson: philanthropy</li><li>A presidential debate</li><li>Bryan has been drinking</li><li>Bryan wants a new polyvox job</li><li>Happy hour stories</li><li>Heather wants to learn about the ZOMBIE APOCALYPSE!</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0026/its-been-a-long-time.png"
+        }
+      }},
+      { "itunes:duration": "51:15" }
+    ]
   }]
 }
