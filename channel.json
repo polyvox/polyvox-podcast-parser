@@ -688,5 +688,29 @@
       }},
       { "itunes:duration": "51:15" }
     ]
+  }, {
+    "title": "Season 1 Finale - Only Five Months Late",
+    "description": "<ul><li>Reflections on Season One</li><li>Why Bryan does not watch GoT</li><li>Why Heather watches <i>Orphan Black</i></li><li>When <i>Weeds</i> jumped the shark</li><li>Reviewing the old <i>Star Wars</i> movies with Bryan</li><li>Heather talks about her holiday in Cozumel</li><li>Heather chooses a new laugh</li><li>Wiggly juicy Samurai</li><li>Bryan talks about his upcoming vacation/conference to Florida</li><li>Heather brings us animal stories</li><li>Heather raves about her new cocoa butter amazeballs</li><li>It is now ok to talk about Season 3 of <i>Silicon Valley</i></li><li>Curtis talks about <i>Penny Dreadful</i></li><li>We talk about <i>24</i></li><li>A review of Carrie Fisher</li><li>Surreptitious drinking stories</li><li><b>a musical interlude</b></li><li>Reflections about the first year of podcasting</li></ul>",
+    "url": "http://polyvox.audio/podcasts/27.html",
+    "guid": "c27314c0-4993-d0d8-5bfa-8f397df4cdc3",
+    "categories": [ "Society and Culture", "Technology" ],
+    "date": "Sun, 6 Nov 2016 06:00:00 GMT",
+    "enclosure": {
+      "url": "http://podcasts.polyvox.audio/media/0027/season-one-finale-finally.mp3",
+      "length": "101054019",
+      "type": "audio/mpeg"
+    },
+    "custom_elements": [
+      { "itunes:subtitle": "Better late than STFU" },
+      { "itunes:summary": {
+        "_cdata": "<ul><li>Reflections on Season One</li><li>Why Bryan does not watch GoT</li><li>Why Heather watches <i>Orphan Black</i></li><li>When <i>Weeds</i> jumped the shark</li><li>Reviewing the old <i>Star Wars</i> movies with Bryan</li><li>Heather talks about her holiday in Cozumel</li><li>Heather chooses a new laugh</li><li>Wiggly juicy Samurai</li><li>Bryan talks about his upcoming vacation/conference to Florida</li><li>Heather brings us animal stories</li><li>Heather raves about her new cocoa butter amazeballs</li><li>It is now ok to talk about Season 3 of <i>Silicon Valley</i></li><li>Curtis talks about <i>Penny Dreadful</i></li><li>We talk about <i>24</i></li><li>A review of Carrie Fisher</li><li>Surreptitious drinking stories</li><li><b>a musical interlude</b></li><li>Reflections about the first year of podcasting</li></ul>"
+      }},
+      { "itunes:image": {
+        "_attr": {
+          "href": "http://podcasts.polyvox.audio/media/0027/season-one-finale-finally.mp3"
+        }
+      }},
+      { "itunes:duration": "1:10:12" }
+    ]
   }]
 }
